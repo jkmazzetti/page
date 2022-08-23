@@ -326,6 +326,9 @@ footer{
 .navbar{
     width: 100%;
 }
+hr{
+    width: 100%;
+}
 .resume{
     flex-direction: column;
 }
