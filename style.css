@@ -320,6 +320,9 @@ footer{
 }
 
 @media (max-width: 1250px) {
+    .contact-me img{
+        width:7%;
+    }
 .container{
     width: 100%;
 }
