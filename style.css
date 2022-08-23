@@ -320,6 +320,12 @@ footer{
 }
 
 @media (max-width: 1250px) {
+.container{
+    width: 100%;
+}
+.navbar{
+    width: 100%;
+}
 .resume{
     flex-direction: column;
 }
